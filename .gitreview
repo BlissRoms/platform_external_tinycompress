@@ -1,0 +1,5 @@
+[gerrit]
+host=review.blissroms.com
+port=29418
+project=platform_external_tinycompress.git
+defaultbranch=o8.1
